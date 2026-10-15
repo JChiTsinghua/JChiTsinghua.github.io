@@ -2,7 +2,7 @@
 
 个人主页的完整可编辑源文件。
 
-已上线的免费 GitHub Pages 地址：**https://jerrychi222.github.io/**。
+已上线的免费 GitHub Pages 地址：**https://jchitsinghua.github.io/**。
 
 ## 本地打开
 
@@ -19,7 +19,7 @@
 
 ## GitHub Pages 发布
 
-仓库名称应为 `JerryChi222.github.io`。在仓库的 **Settings → Pages** 中，选择 **Deploy from a branch**，分支选择 **main**，目录选择 **/(root)** 并保存。
+仓库名称应为 `JChiTsinghua.github.io`。在仓库的 **Settings → Pages** 中，选择 **Deploy from a branch**，分支选择 **main**，目录选择 **/(root)** 并保存。
 
 `.nojekyll` 表示直接发布静态文件。配置好 Pages 后，提交文件更新会触发重新发布；可在仓库的 Actions 或 Pages 设置中检查结果。
 
