@@ -2,7 +2,7 @@
 
 个人主页的完整可编辑源文件。
 
-计划使用的免费 GitHub Pages 地址：**https://jerrychi222.github.io/**。
+已上线的免费 GitHub Pages 地址：**https://jerrychi222.github.io/**。
 
 ## 本地打开
 
@@ -23,4 +23,4 @@
 
 `.nojekyll` 表示直接发布静态文件。配置好 Pages 后，提交文件更新会触发重新发布；可在仓库的 Actions 或 Pages 设置中检查结果。
 
-网站地址以实际发布成功后的 GitHub Pages 显示为准。
+已于 2026 年 10 月 15 日发布，使用 main 分支根目录，已启用 HTTPS。旧站的 GitHub Pages 发布已停用，旧仓库仍保留。
