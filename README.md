@@ -12,7 +12,6 @@
 
 - `index.html`：姓名、About me、教育经历、科研成果和工作之外。
 - `styles.css`：颜色、字体、间距和响应式布局。
-- `assets/horizon.svg`：首页插图。
 - `assets/favicon.svg`：网站图标。
 
 详细步骤见 [修改与使用说明](修改与使用说明.md)。
