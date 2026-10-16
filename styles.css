@@ -123,3 +123,8 @@ footer a { border-bottom:1px solid var(--line); }
   footer { gap:12px; }
 }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+
+/* 删除学士阶段下方的横线和多余留白 */
+.about .education-row:last-child {  border-bottom: none;  padding-bottom: 0;}
+.about .education {  margin-bottom: 0;}
+.about {  padding-bottom: 16px;}
